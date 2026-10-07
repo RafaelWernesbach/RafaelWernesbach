@@ -14,7 +14,7 @@ Atualmente trabalho no desenvolvimento e manutenção de sistemas institucionais
 
 I'm a Computer Science student and software developer with hands-on experience building web applications with **PHP and Laravel**, mainly focused on administrative systems, process automation, relational databases, and interfaces built with **Filament and Livewire**.
 
-I currently work on the development and maintenance of institutional systems related to PJES, dealing with business rules, integrations, queues, scheduled tasks, reports, database migrations, and query optimization.
+I currently work on the development and maintenance of institutional systems within the Espírito Santo State Judiciary, dealing with business rules, integrations, queues, scheduled tasks, reports, database migrations, and query optimization.
 
 ---
 

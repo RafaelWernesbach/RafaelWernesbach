@@ -16,7 +16,7 @@ Atualmente trabalho no desenvolvimento e manutenção de sistemas institucionais
 - Queues & Jobs
 - Scheduler / Cron
 
-### Frontend / Admin
+### Frontend
 - Filament
 - Livewire
 - Alpine.js

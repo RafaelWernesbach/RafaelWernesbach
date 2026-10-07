@@ -73,3 +73,43 @@ I currently work on the development and maintenance of institutional systems wit
 ---
 
 ## 📊 GitHub
+
+<div align="center">
+
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=RafaelWernesbach&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true"
+    alt="Rafael Wernesbach GitHub Stats"
+  />
+
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelWernesbach&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+    alt="Most Used Languages"
+  />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelWernesbach&theme=github_dark"
+    alt="GitHub Contribution Graph"
+  />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    width="65%"
+    src="https://streak-stats.demolab.com?user=RafaelWernesbach&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+</div>

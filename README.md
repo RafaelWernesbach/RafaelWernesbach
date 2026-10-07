@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da Computação e desenvolvedor com experiência prática em aplicações web com **PHP e Laravel**, atuando principalmente com sistemas administrativos, automação de processos, bancos relacionais e interfaces construídas com **Filament e Livewire**.
 
-Atualmente trabalho no desenvolvimento e manutenção de sistemas institucionais, lidando com regras de negócio, integrações, filas, tarefas agendadas, relatórios, migrações de banco e otimização de consultas.
+Atualmente trabalho no desenvolvimento e manutenção de sistemas institucionais ligados ao PJES, lidando com regras de negócio, integrações, filas, tarefas agendadas, relatórios, migrações de banco e otimização de consultas.
 
 ---
 

@@ -1,6 +1,6 @@
-# Olá, eu sou Rafael Wernesbach 👋
+# Olá, sou Rafael Wernesbach 👋
 
----
+
 
 ## 👨‍💻 Sobre mim
 

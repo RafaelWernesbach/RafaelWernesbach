@@ -9,44 +9,79 @@ Atualmente trabalho no desenvolvimento e manutenção de sistemas institucionais
 ## 🧰 Stack principal
 
 ### Backend
-- PHP
-- Laravel
-- REST APIs
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+</p>
+
 - Eloquent ORM
 - Queues & Jobs
 - Scheduler / Cron
 
 ### Frontend
-- Filament
-- Livewire
-- Alpine.js
-- Tailwind CSS
+
+<p>
+  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
 - Blade
+- Vite
 
 ### Banco de Dados
-- MySQL
-- MariaDB
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
+
 - SQL
 - Modelagem relacional
 - Migrações e otimização de queries
 
 ### Ferramentas
-- Git & GitHub
-- GitHub Actions
-- Linux
-- Nginx / PHP-FPM
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+- PHP-FPM
 - Composer
-- Docker
-- Vite
 - Deploy de aplicações Laravel
 
-
+---
 
 ## 📊 GitHub
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RafaelWernesbach&show_icons=true&count_private=true&hide_border=true&title_color=96BCE5&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelWernesbach&layout=compact&hide_border=true&title_color=96BCE5&text_color=00bfbf&bg_color=0d1117" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=RafaelWernesbach&show_icons=true&hide_border=true&theme=github_dark"
+    alt="GitHub Stats"
+  />
+
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelWernesbach&layout=compact&hide_border=true&theme=github_dark"
+    alt="Top Languages"
+  />
 </div>
 
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelWernesbach&bg_color=96BCE500&color=ffffff&line=00ffbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelWernesbach&theme=github-compact&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</div>

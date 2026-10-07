@@ -18,7 +18,7 @@ I currently work on the development and maintenance of institutional systems wit
 
 ---
 
-## 🧰 Stack principal
+## 🧰 Stack
 
 ### Backend
 
@@ -44,7 +44,7 @@ I currently work on the development and maintenance of institutional systems wit
 - Blade
 - Vite
 
-### Banco de Dados
+### DB
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />

@@ -1,9 +1,20 @@
 # Olá, eu sou Rafael Wernesbach 👋
 
+---
+
+## 👨‍💻 Sobre mim
+
 Sou estudante de Ciência da Computação e desenvolvedor com experiência prática em aplicações web com **PHP e Laravel**, atuando principalmente com sistemas administrativos, automação de processos, bancos relacionais e interfaces construídas com **Filament e Livewire**.
 
 Atualmente trabalho no desenvolvimento e manutenção de sistemas institucionais ligados ao PJES, lidando com regras de negócio, integrações, filas, tarefas agendadas, relatórios, migrações de banco e otimização de consultas.
 
+---
+
+## 🇺🇸 About me
+
+I'm a Computer Science student and software developer with hands-on experience building web applications with **PHP and Laravel**, mainly focused on administrative systems, process automation, relational databases, and interfaces built with **Filament and Livewire**.
+
+I currently work on the development and maintenance of institutional systems within the Espírito Santo State Judiciary, dealing with business rules, integrations, queues, scheduled tasks, reports, database migrations, and query optimization.
 ---
 
 ## 🧰 Stack principal
@@ -61,27 +72,3 @@ Atualmente trabalho no desenvolvimento e manutenção de sistemas institucionais
 ---
 
 ## 📊 GitHub
-
-<div align="center">  
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=RafaelWernesbach&show_icons=true&hide_border=true&theme=github_dark"
-    alt="GitHub Stats"
-  />
-
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelWernesbach&layout=compact&hide_border=true&theme=github_dark"
-    alt="Top Languages"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelWernesbach&theme=github-compact&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</div>

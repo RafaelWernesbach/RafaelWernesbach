@@ -30,7 +30,7 @@ Atualmente trabalho no desenvolvimento e manutenção de sistemas institucionais
 - Modelagem relacional
 - Migrações e otimização de queries
 
-### Infra / Ferramentas
+### Ferramentas
 - Git & GitHub
 - GitHub Actions
 - Linux
@@ -40,54 +40,7 @@ Atualmente trabalho no desenvolvimento e manutenção de sistemas institucionais
 - Vite
 - Deploy de aplicações Laravel
 
----
 
-## 🚀 Projetos e experiência
-
-### EMES — Sistema de Gestão da Escola da Magistratura
-Sistema institucional desenvolvido com Laravel e Filament para gerenciamento de cursos, inscrições, frequência, certificados, agenda e relatórios.
-
-Atuação em:
-- desenvolvimento de módulos administrativos;
-- regras de negócio e automação de fluxos;
-- integrações com outros sistemas;
-- filas e tarefas agendadas;
-- geração de certificados e relatórios;
-- otimização de consultas e performance;
-- manutenção de ambiente de produção.
-
-### Migração de Sistema de Gestão Patrimonial
-Participação na modernização de um sistema legado de gestão patrimonial, envolvendo:
-- migração de código e banco de dados;
-- adaptação de estruturas antigas para Laravel;
-- modelagem e tratamento de grandes volumes de dados;
-- correção de inconsistências e relacionamentos.
-
-### Projetos com Laravel, Livewire e Filament
-Também desenvolvo projetos utilizando:
-- CRUDs administrativos;
-- dashboards;
-- autenticação e controle de acesso;
-- APIs REST;
-- integrações externas;
-- automações;
-- deploy em servidores Linux.
-
----
-
-## 📚 Atualmente estudando
-
-Tenho interesse em aprofundar conhecimentos em:
-
-- Arquitetura de aplicações Laravel
-- Testes automatizados
-- APIs REST
-- Performance e banco de dados
-- Docker e CI/CD
-- Visão Computacional
-- Inteligência Artificial
-
----
 
 ## 📊 GitHub
 
